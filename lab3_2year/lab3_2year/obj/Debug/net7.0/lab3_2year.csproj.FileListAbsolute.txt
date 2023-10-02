@@ -1,0 +1,15 @@
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\bin\Debug\net7.0\lab3_2year.exe
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\bin\Debug\net7.0\lab3_2year.deps.json
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\bin\Debug\net7.0\lab3_2year.runtimeconfig.json
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\bin\Debug\net7.0\lab3_2year.dll
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\bin\Debug\net7.0\lab3_2year.pdb
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.dll
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\refint\lab3_2year.dll
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.pdb
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\lab3_2year.genruntimeconfig.cache
+C:\Users\Dimon\source\repos\lab3_2year\lab3_2year\obj\Debug\net7.0\ref\lab3_2year.dll
